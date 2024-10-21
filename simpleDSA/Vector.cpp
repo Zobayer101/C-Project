@@ -10,6 +10,7 @@ int main() {
   // Print vector elements
   for (string car : cars) {
     cout << car << "\n";
+    cout << car;
   }
   return 0;
 }
